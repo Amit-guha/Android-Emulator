@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "64786371672",
+    "firebase_url": "https://teachercontactapp.firebaseio.com",
+    "project_id": "teachercontactapp",
+    "storage_bucket": "teachercontactapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64786371672:android:b0708f5fe1ef51e2",
+        "android_client_info": {
+          "package_name": "com.example.hp.alluser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64786371672-uqv0rtmureo3s1852bklrvm59r4n99ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.alluser",
+            "certificate_hash": "063205965c9333bf0318166d9f6d51cf56543f2a"
+          }
+        },
+        {
+          "client_id": "64786371672-blbgbgf04il89ackqd7nv4lh1qp84u4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1zAIYNms3J2KGSTlOPbduUfTU8t6Iy7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64786371672-blbgbgf04il89ackqd7nv4lh1qp84u4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64786371672:android:720bf1c2360b01e0",
+        "android_client_info": {
+          "package_name": "com.example.hp.teachercontactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64786371672-lojn0ih4sj5bi9aqcbeqn7in33alqc0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.teachercontactapp",
+            "certificate_hash": "063205965c9333bf0318166d9f6d51cf56543f2a"
+          }
+        },
+        {
+          "client_id": "64786371672-blbgbgf04il89ackqd7nv4lh1qp84u4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1zAIYNms3J2KGSTlOPbduUfTU8t6Iy7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64786371672-blbgbgf04il89ackqd7nv4lh1qp84u4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
